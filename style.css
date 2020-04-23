@@ -1,0 +1,31 @@
+td {
+  width: 135px;
+  height: 135px;
+}
+
+h1 {
+  text-align: center;
+  color: red;
+}
+
+table {
+  margin: 50px auto;
+  border-collapse: collapse;
+}
+
+.sql {
+
+
+ border-left: 4px solid ;
+ color: red;
+  border-right: 4px solid ;
+
+
+}
+
+.ufq{
+  border-top: 4px solid ;
+  color: red;
+  border-bottom: 4px solid;
+
+}
